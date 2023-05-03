@@ -1,5 +1,5 @@
 [package]
-name = "___std-backtrace-anyhow"
+name = "lmnkjgkj-std-backtrace-anyhow"
 version = "0.0.1" # remember to update html_root_url
 authors = ["David Tolnay <dtolnay@gmail.com>"]
 categories = ["rust-patterns", "no-std"]
